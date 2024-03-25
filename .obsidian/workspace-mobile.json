@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basis data/basis data (3).md",
+                "file": "html/remedial ulangan.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5bc8559c4b73f67c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basis data/select lanjutan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "df0ff89c2eadfb9e",
@@ -73,7 +60,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#hyperling",
+            "query": "tag:#NOT",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -122,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "basis data/select lanjutan.md",
+            "file": "html/remedial ulangan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "basis data/select lanjutan.md",
+            "file": "html/remedial ulangan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +138,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "basis data/select lanjutan.md"
+            "file": "html/remedial ulangan.md"
           }
         }
       }
@@ -169,26 +156,38 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "5bc8559c4b73f67c",
+  "active": "091ac3034834d896",
   "lastOpenFiles": [
-    "basis data/insert & select.md",
+    "css",
+    "html/css",
+    "css/pengenalan CSS.md",
+    "IMG_20240324_215036.jpg",
+    "html/pengenalan css/Pengenalan CSS - s (1).md",
+    "html/pengenalan css/pengenalan CSS - s.md",
     "html/Pengenalan HTML - S.md",
-    "pemrograman web/pengenalan CSS.md",
-    "IMG_20240224_211417 1 1.jpg",
-    "IMG_20240224_211352 1.jpg",
-    "IMG_20240224_211417 1.jpg",
-    "IMG_20240224_211410 1.jpg",
-    "IMG_20240224_211352.jpg",
-    "IMG_20240224_211405.jpg",
-    "IMG_20240224_211417.jpg",
-    "IMG_20240224_211410.jpg",
-    "IMG-20240224-WA0015.jpg",
+    "basis data/basis data (3).md",
+    "html/pengenalan css",
+    "Untitled.md",
     "basis data/select lanjutan.md",
-    "IMG_20240220_133746.jpg",
+    "basis data/insert & select.md",
+    "html/pengenalan (2).md",
+    "html/materi html (5).md",
+    "Spaces/aset/IMG_20240227_151707.jpg",
+    "Spaces/aset/IMG_20240227_151323.jpg",
+    "Spaces/aset/IMG_20240227_150451.jpg",
+    "Spaces/aset/IMG_20240227_145533.jpg",
+    "IMG_20240227_145533 1.jpg",
+    "Spaces/aset/IMG_20240227_151052.jpg",
+    "IMG_20240227_145125.jpg",
+    "html/remedial ulangan.md",
+    "Spaces/aset/Screenshot_2024-02-28-12-21-30-14_e3c1f266f17b29c7b40472751f031275.jpg",
+    "Spaces/aset/Screenshot_2024-02-28-12-21-36-96_e3c1f266f17b29c7b40472751f031275.jpg",
+    "basis data/panduan termux.md",
+    "html/pembuatan website (4).md",
+    "html/form.md",
+    "pemrograman web/pengenalan CSS.md",
     "pemrograman web/form.md",
     "pemrograman web/materi html (5).md",
-    "basis data/panduan termux.md",
-    "basis data/basis data (3).md",
     "pemrograman web/pertemuan 1.md",
     "Screenshot_2024-02-06-12-06-01-55_e3c1f266f17b29c7b40472751f031275.jpg.md",
     "basis data/form",
@@ -204,18 +203,6 @@
     "html/aset/.md",
     ".md",
     "pembuatan website",
-    "578b0e8b9cad17794cbc72e5409507dd.jpg.md",
-    "basis data",
-    "pemrograman web",
-    "html/pertemuan 2",
-    "ex.md",
-    "html/aset/Image.1jpg.md",
-    "html/pertemuan 1,2.md",
-    "html/aset/image.1jpg.md",
-    "2c5ac2b238caa9aba0a710a6e3f1aeb9.jpg.md",
-    "image.jpg.md",
-    "image,jpg.md",
-    "aset/Untitled.md",
-    "pertemuan 1,2.md"
+    "basis data"
   ]
 }
