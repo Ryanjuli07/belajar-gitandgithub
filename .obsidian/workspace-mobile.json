@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5e729ac32031b10c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "091ac3034834d896",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "html/remedial ulangan.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "df0ff89c2eadfb9e",
         "type": "tabs",
         "children": [
@@ -29,8 +11,12 @@
             "id": "2dc903f34bd55b72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "basis data/select.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,7 +46,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#NOT",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -109,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "html/remedial ulangan.md",
+            "file": "basis data/select.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "html/remedial ulangan.md",
+            "file": "basis data/select.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "html/remedial ulangan.md"
+            "file": "basis data/select.md"
           }
         }
       }
@@ -156,53 +142,52 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "091ac3034834d896",
+  "active": "2dc903f34bd55b72",
   "lastOpenFiles": [
+    "basis data/alter tabel.md",
+    "basis data/select.md",
+    "basis data/insert & select.md",
+    "html/yaaa.md",
+    "basis data/select lanjutan.md",
+    "basis data/PEMBELAJARAN 5.md",
+    "IMG_20240227_151707 2.jpg",
+    "IMG_20240227_151323 1.jpg",
+    "IMG_20240227_151707 1.jpg",
+    "IMG_20240227_151323.jpg",
+    "IMG_20240227_151052.jpg",
+    "IMG_20240227_150451.jpg",
+    "IMG_20240227_145533.jpg",
+    "IMG_20240227_145125.jpg",
+    "IMG_20240227_151707.jpg",
+    "css/pengenalan CSS.md",
+    "basis data/basis data (3).md",
+    "php/pph.md",
+    "php/php.md",
+    "2024-04-29.md",
+    "css/materi gradient (manual dan generator).md",
+    "php",
+    "IMG_20240428_191233.jpg",
+    "Untitled.loom",
+    "html/remedial ulangan.md",
+    "Image.1.jpg.md",
+    "html/form.md",
+    "basis data/alter table",
+    "html/materi html (5).md",
+    "html/pertemuan 1.md",
+    "html/pengenalan (2).md",
+    "html/pembuatan website (4).md",
+    "basis data/panduan termux.md",
     "css",
     "html/css",
-    "css/pengenalan CSS.md",
-    "IMG_20240324_215036.jpg",
     "html/pengenalan css/Pengenalan CSS - s (1).md",
     "html/pengenalan css/pengenalan CSS - s.md",
     "html/Pengenalan HTML - S.md",
-    "basis data/basis data (3).md",
     "html/pengenalan css",
     "Untitled.md",
-    "basis data/select lanjutan.md",
-    "basis data/insert & select.md",
-    "html/pengenalan (2).md",
-    "html/materi html (5).md",
-    "Spaces/aset/IMG_20240227_151707.jpg",
-    "Spaces/aset/IMG_20240227_151323.jpg",
-    "Spaces/aset/IMG_20240227_150451.jpg",
-    "Spaces/aset/IMG_20240227_145533.jpg",
-    "IMG_20240227_145533 1.jpg",
-    "Spaces/aset/IMG_20240227_151052.jpg",
-    "IMG_20240227_145125.jpg",
-    "html/remedial ulangan.md",
-    "Spaces/aset/Screenshot_2024-02-28-12-21-30-14_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Spaces/aset/Screenshot_2024-02-28-12-21-36-96_e3c1f266f17b29c7b40472751f031275.jpg",
-    "basis data/panduan termux.md",
-    "html/pembuatan website (4).md",
-    "html/form.md",
     "pemrograman web/pengenalan CSS.md",
-    "pemrograman web/form.md",
-    "pemrograman web/materi html (5).md",
-    "pemrograman web/pertemuan 1.md",
-    "Screenshot_2024-02-06-12-06-01-55_e3c1f266f17b29c7b40472751f031275.jpg.md",
     "basis data/form",
-    "pemrograman web/Pengenalan HTML - S.md",
-    "pemrograman web/pembuatan website (4).md",
-    "pemrograman web/pengenalan (2).md",
-    "Untitled.loom",
-    "IMG_20240117_144820 1.jpg.md",
-    "Untitled",
     "Spaces/Home",
     "Spaces",
-    "html/aset/Untitled.md",
-    "html/aset/.md",
-    ".md",
-    "pembuatan website",
-    "basis data"
+    ".md"
   ]
 }

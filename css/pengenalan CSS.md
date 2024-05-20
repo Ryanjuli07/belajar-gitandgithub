@@ -44,7 +44,7 @@ disini isi dari tag p berubah menjadi berwarnah merah di akibatkan oleh style cs
       }
     </style>
 ```
-# border
+# bordwer
 garis batas yang bisa digunakan di setiap elemen. Untuk memperlihatkan garis batas dari sebuah elemen, gunakan properti border pada CSS.
 ## before
 ![[IMG_20240224_211425 1.jpg]]

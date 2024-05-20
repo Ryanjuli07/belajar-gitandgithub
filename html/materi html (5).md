@@ -13,6 +13,7 @@ contoh program
 ```
 hasil program:
 ![[IMG_20240117_144820.jpg]]
+
 penjelasan program:
 - tag <!DOCTYPE html> memberitahukan web browser bahwa dokumen `<html>` adalah versi 5
 - tag pembuka `<html>` manandai awal sebuah dokumen HTML sampai dengan tag penutup `</html>`
