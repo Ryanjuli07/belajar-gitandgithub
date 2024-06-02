@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basis data/select.md",
+                "file": "css/Remedial pesona.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "basis data/select.md",
+            "file": "css/Remedial pesona.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "basis data/select.md",
+            "file": "css/Remedial pesona.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "basis data/select.md"
+            "file": "css/Remedial pesona.md"
           }
         }
       }
@@ -144,50 +144,51 @@
   },
   "active": "2dc903f34bd55b72",
   "lastOpenFiles": [
-    "basis data/alter tabel.md",
+    "basis data/remedial basis data.md",
     "basis data/select.md",
-    "basis data/insert & select.md",
-    "html/yaaa.md",
-    "basis data/select lanjutan.md",
-    "basis data/PEMBELAJARAN 5.md",
-    "IMG_20240227_151707 2.jpg",
-    "IMG_20240227_151323 1.jpg",
-    "IMG_20240227_151707 1.jpg",
-    "IMG_20240227_151323.jpg",
-    "IMG_20240227_151052.jpg",
-    "IMG_20240227_150451.jpg",
-    "IMG_20240227_145533.jpg",
-    "IMG_20240227_145125.jpg",
-    "IMG_20240227_151707.jpg",
+    "css/Remedial pesona.md",
+    "IMG_20240602_125922 1.jpg",
+    "IMG_20240602_125922.jpg",
+    "IMG-20240602-WA0003.jpg",
     "css/pengenalan CSS.md",
+    "basis data/alter tabel.md",
+    "php/PHP Dasar.md",
+    "css/remedial pesona",
+    "css/remedial pesona indonesia.md",
+    "praktikum/Praktikum 6.md",
+    "praktikum/Catatan.md",
+    "praktikum",
+    "basis data/Aset_basis_data/Alter/IMG3.png",
+    "basis data/Aset_basis_data/Alter/IMG2.png",
+    "basis data/Aset_basis_data/Alter/IMG1.png",
+    "basis data/insert & select.md",
     "basis data/basis data (3).md",
+    "basis data/Aset_basis_data/IMG8/IMG8_5.png",
+    "basis data/Aset_basis_data/IMG8/IMG8_4.png",
+    "basis data/Aset_basis_data/IMG8/IMG8_3.png",
+    "basis data/Aset_basis_data/IMG8/IMG8_2.png",
+    "basis data/Aset_basis_data/IMG8",
+    "basis data/Aset_basis_data/IMG7",
+    "basis data/Aset_basis_data/IMG6",
+    "basis data/Aset_basis_data/IMG5",
+    "basis data/Aset_basis_data/IMG4",
+    "basis data/Aset_basis_data/IMG3",
+    "basis data/Aset_basis_data/IMG2",
+    "basis data/Aset_basis_data/IMG1",
+    "html/yaaa.md",
+    "yaaaa/phpppp/ygg.md",
+    "ppp/yaaa.md",
+    "html/remedial ulangan.md",
     "php/pph.md",
     "php/php.md",
+    "php/3. PHP/Untitled.md",
+    "html/materi html (5).md",
+    "basis data/select lanjutan.md",
+    "basis data/PEMBELAJARAN 5.md",
     "2024-04-29.md",
     "css/materi gradient (manual dan generator).md",
-    "php",
-    "IMG_20240428_191233.jpg",
-    "Untitled.loom",
-    "html/remedial ulangan.md",
     "Image.1.jpg.md",
     "html/form.md",
-    "basis data/alter table",
-    "html/materi html (5).md",
-    "html/pertemuan 1.md",
-    "html/pengenalan (2).md",
-    "html/pembuatan website (4).md",
-    "basis data/panduan termux.md",
-    "css",
-    "html/css",
-    "html/pengenalan css/Pengenalan CSS - s (1).md",
-    "html/pengenalan css/pengenalan CSS - s.md",
-    "html/Pengenalan HTML - S.md",
-    "html/pengenalan css",
-    "Untitled.md",
-    "pemrograman web/pengenalan CSS.md",
-    "basis data/form",
-    "Spaces/Home",
-    "Spaces",
-    ".md"
+    "html/pertemuan 1.md"
   ]
 }
